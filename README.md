@@ -4,7 +4,7 @@ Serialization in Java is the concept of representing an object's state as a byte
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@Mehdi Lavasani](https://github.com/zendevMehdi)
 
 
 ## Features
