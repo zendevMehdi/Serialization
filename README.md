@@ -1,3 +1,6 @@
+# Serialization
+
+Serialization in Java is the concept of representing an object's state as a byte stream. The byte stream has all the information about the object.
 
 ## Authors
 
@@ -20,10 +23,6 @@ Install my-project with npm
   npm install my-project
   cd my-project
 ```
-    
-# Project Title
-
-A brief description of what this project does and who it's for
 
 
 ## Usage/Examples
